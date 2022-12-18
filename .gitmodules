@@ -1,0 +1,9 @@
+[submodule "external/dotfiles.davidbeckingsale"]
+	path = external/dotfiles.davidbeckingsale
+	url = git@github.com:davidbeckingsale/dotfiles.git
+[submodule "external/dotfiles.trws"]
+	path = external/dotfiles.trws
+	url = git@github.com:trws/dotfiles.git
+[submodule "external/dotfiles.tgamblin"]
+	path = external/dotfiles.tgamblin
+	url = git@github.com:tgamblin/dotfiles.git
